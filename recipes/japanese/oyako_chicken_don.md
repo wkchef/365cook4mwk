@@ -11,11 +11,16 @@ A fast cooking for mwk to bring meal to work (1 serving)
 
 Ingredients 
 ===========
-Onion - 1/8 piece;
-Spring onion - 1 stalk;
-Chicken thigh - 200g;
-Egg - 2;
+Onion - 1/8 piece
+
+Spring onion - 1 stalk
+
+Chicken thigh - 200g
+
+Egg - 2
+
 Cooked rice - 1 bowl
+
 
 Seasonings
 ===========
