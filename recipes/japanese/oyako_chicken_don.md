@@ -1,7 +1,7 @@
 ---
 title: Oyako Chicken don
 source: https://www.youtube.com/watch?v=EiCNYPBZ6As
-img: media/besciamella.jpg
+img: media/oyako_chicken_don.jpg
 tags: chicken, rice, japanese, fast
 category: japanese
 ---
