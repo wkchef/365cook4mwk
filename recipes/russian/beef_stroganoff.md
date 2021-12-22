@@ -7,7 +7,7 @@ category: russian
 ---
 
 A fast cooking for mwk to bring meal to work (4 serving)
-![Beef Stroganoff](media/beef_stroganoff.jpg)
+![Beef Stroganoff](media/beef_stroganoff.JPG)
 
 Ingredients 
 ===========
