@@ -1,14 +1,12 @@
 ---
-title: Oyako Chicken Don
+title: Oyako Chicken don
 source: https://www.youtube.com/watch?v=EiCNYPBZ6As
-img: media/oyako_chicken_don.jpg
+img: media/besciamella.jpg
 tags: chicken, rice, japanese, fast
 category: japanese
 ---
 
 A fast cooking for mwk to bring meal to work (1 serving)
-
-![Oyako Chicken Don](media/oyako_chicken_don.jpg)
 
 Ingredients 
 ===========
