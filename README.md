@@ -7,5 +7,5 @@ Ultimate goal: Make sure she wont get bored on Sherman cooking
 Still under-developing but will keep on updating and post food porn every once a while. 
 
 ## Style:
-+ [Japanese](https://github.com/365cook4mwk/blob/main/recipes/japanese/oyako_chicken_don.md)
++ [Japanese](https://https://github.com/wkchef/365cook4mwk/blob/main/recipes/japanese/oyako_chicken_don.md)
 + 
