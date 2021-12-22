@@ -7,7 +7,7 @@ category: japanese
 ---
 
 A fast cooking for mwk to bring meal to work (1 serving)
-!(media/oyako_chicken_don.jpg)
+![Oyako Chicken don](media/oyako_chicken_don.jpg)
 
 Ingredients 
 ===========
