@@ -8,4 +8,4 @@ Still under-developing but will keep on updating and post food porn every once a
 
 ## Style:
 + [Japanese](https://github.com/wkchef/365cook4mwk/blob/main/recipes/japanese/oyako_chicken_don.md)
-+ 
++ [Russian](https://github.com/wkchef/365cook4mwk/blob/main/recipes/russian/beef_stroganoff.md)
