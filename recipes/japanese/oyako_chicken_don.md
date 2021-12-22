@@ -1,7 +1,7 @@
 ---
 title: Oyako Chicken don
 source: https://www.youtube.com/watch?v=EiCNYPBZ6As
-img: a href="https://github.com/wkchef/365cook4mwk/blob/main/media/oyako_chicken_don.jpg"
+img: (media/oyako_chicken_don.jpg)
 tags: chicken, rice, japanese, fast
 category: japanese
 ---
