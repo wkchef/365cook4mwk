@@ -13,27 +13,45 @@ A fast cooking for mwk to bring meal to work (4 serving)
 Ingredients 
 ===========
 top sirloin steak - 500g
+
 olive oil - 2 tbsp
+
 butter - 2 tbsp
+
 onion - 0.5 pieces
+
 garlic - 1 clove
+
 all purpose flour - 1 tbsp
+
 beef broth - 1 cup
+
 heavy whipping cream - 3/4 cup
+
 sour cream - 1/4 cup
+
 dijon mustard - 1/2 tsp
+
 Worcestershire sauce - 1 tbsp
+
 salt - 1/2 tsp
+
 black pepper - 1/4 tsp
 
 Seasonings
 ===========
 beef broth - 240 ml
+
 heavy whipping cream - 180 ml
+
 sour cream - 60 ml
+
 dijon mustard - 1/2 tsp
+
 Worcestershire sauce - 1 tbsp
+
 salt - 1/2 tsp
+
 black pepper - 1/4 tsp
 
 Preparation
