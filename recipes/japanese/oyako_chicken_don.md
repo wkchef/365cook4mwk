@@ -25,7 +25,9 @@ Cooked rice - 1 bowl
 Seasonings
 ===========
 Soy sauce 20ml
+
 Mirin 20ml
+
 Dashi stock (chicken stock) 80ml
 
 Preparation
