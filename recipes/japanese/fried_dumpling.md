@@ -7,7 +7,7 @@ category: japanese
 ---
 
 A fast cooking for mwk to bring meal to work (1 serving)
-![Fried Dumplings](media/fried_dumpling.jpg)
+![Fried Dumpling](media/fried_dumpling.jpg)
 
 Ingredients 
 ===========
