@@ -7,7 +7,7 @@ category: japanese
 ---
 
 A fast cooking for mwk to bring meal to work (1 serving)
-![Fried Dumplings](media/fried_beef_udon.jpg)
+![Fried Dumplings](media/fried_dumpling.jpg)
 
 Ingredients 
 ===========
