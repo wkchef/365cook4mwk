@@ -1,6 +1,6 @@
-# 365 days cooking for Mak Wing Ki
+# 365 days cooking for Mak Wing Ki (7/365)
 
-A well constructed cooking recipes for feeding Wendy Mak 365 days per year. She can just pick the recipes and Sherman will cook for her.
+A well constructed cooking recipes for feeding Wendy Mak 365 days per year. She can just pick the recipes and Sherman will cook for her. 
 
 Ultimate goal: Make sure she wont get bored on Sherman cooking
 
