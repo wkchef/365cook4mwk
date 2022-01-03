@@ -1,13 +1,13 @@
 ---
 title: fried dumplings
 source: https://www.youtube.com/watch?v=Gb8G8uIrz2Y
-img: media/fried_dumpling.jpg
+img: media/fried_dumpling.JPG
 tags: dumplings, fried, japanese, fast
 category: japanese
 ---
 
 A fast cooking for mwk to bring meal to work (1 serving)
-![Fried Dumpling](media/fried_dumpling.jpg)
+![Fried Dumpling](media/fried_dumpling.JPG)
 
 Ingredients 
 ===========
