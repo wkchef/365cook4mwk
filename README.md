@@ -11,3 +11,5 @@ Still under-developing but will keep on updating and post food porn every once a
 + [Beef Stroganoff](https://github.com/wkchef/365cook4mwk/blob/main/recipes/russian/beef_stroganoff.md)
 + [Spagetti](https://github.com/wkchef/365cook4mwk/blob/main/recipes/italian/spagetti.md)
 + [滷肉飯](https://github.com/wkchef/365cook4mwk/blob/main/recipes/taiwanese/lu_rou.md)
++ [Fried beef udon](https://github.com/wkchef/365cook4mwk/blob/main/recipes/japanese/fried_beef_udon.md)
++ 
