@@ -12,4 +12,5 @@ Still under-developing but will keep on updating and post food porn every once a
 + [Spagetti](https://github.com/wkchef/365cook4mwk/blob/main/recipes/italian/spagetti.md)
 + [滷肉飯](https://github.com/wkchef/365cook4mwk/blob/main/recipes/taiwanese/lu_rou.md)
 + [Fried beef udon](https://github.com/wkchef/365cook4mwk/blob/main/recipes/japanese/fried_beef_udon.md)
-+ 
++ [Chicken pasta bake](https://github.com/wkchef/365cook4mwk/blob/main/recipes/italian/chicken%20pasta%20bake.md)
++ [Fried dumpling](https://github.com/wkchef/365cook4mwk/blob/main/recipes/japanese/fried_dumpling.md)
