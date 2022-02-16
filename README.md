@@ -15,3 +15,4 @@ Still under-developing but will keep on updating and post food porn every once a
 + [Chicken pasta bake](https://github.com/wkchef/365cook4mwk/blob/main/recipes/italian/chicken%20pasta%20bake.md)
 + [Fried dumpling](https://github.com/wkchef/365cook4mwk/blob/main/recipes/japanese/fried_dumpling.md)
 + [台式鹽酥雞](https://github.com/wkchef/365cook4mwk/blob/main/recipes/taiwanese/popcorn_chicken.md)
++ [Onion Pork Chop](https://github.com/wkchef/365cook4mwk/blob/main/recipes/chinese/onion%20pork%20chop.md)
